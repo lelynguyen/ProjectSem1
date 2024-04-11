@@ -2,4 +2,4 @@
 
 ## Preview
 
-![React Course Sell project]()
+You can preview my project at: https://star-classes.netlify.app/
